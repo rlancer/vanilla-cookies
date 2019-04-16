@@ -1,5 +1,6 @@
 {
   "name": "vanilla-cookies",
+  "author": "Robert Lancer",
   "version": "0.0.4",
   "description": "Quick tools for dealing with cookies on the client",
   "main": "./out/index.js",
@@ -9,9 +10,12 @@
     "prepack": "tsc"
   },
   "repository": "https://github.com/rlancer/vanilla-cookies",
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.4.3"
+  },
+  "homepage": "https://github.com/rlancer/vanilla-cookies",
+  "engines": {
+    "node": ">=8.0.0"
   }
 }
