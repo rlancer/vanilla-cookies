@@ -7,6 +7,7 @@
     "test": "echo No test",
     "prepack": "tsc"
   },
+  "repository": "https://github.com/rlancer/vanilla-cookies",
   "author": "",
   "license": "ISC",
   "devDependencies": {
