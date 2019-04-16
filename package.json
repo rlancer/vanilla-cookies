@@ -1,6 +1,6 @@
 {
   "name": "vanilla-cookies",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quick tools for dealing with cookies on the client",
   "main": "index.js",
   "scripts": {
