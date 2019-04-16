@@ -1,7 +1,7 @@
 {
   "name": "vanilla-cookies",
   "author": "Robert Lancer",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Quick tools for dealing with cookies on the client",
   "main": "./out/index.js",
   "types": "./out/index.d.ts",
