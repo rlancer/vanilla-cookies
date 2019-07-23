@@ -3,8 +3,8 @@
   "author": "Robert Lancer",
   "version": "0.0.8",
   "description": "Quick tools for dealing with cookies on the client",
-  "main": "./out/index.js",
-  "types": "./out/index.d.ts",
+  "main": "out/index.js",
+  "types": "out/index.d.ts",
   "scripts": {
     "test": "echo No test",
     "prepack": "rm -rf out && tsc"
